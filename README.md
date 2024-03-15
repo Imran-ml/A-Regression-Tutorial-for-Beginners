@@ -1,7 +1,7 @@
 # Titanic a Complete Tutorial of Data Science
 
-<img src="<img src="https://www.mashvisor.com/blog/wp-content/uploads/2019/01/bigstock-Paper-House-Model-On-Coins-Sta-279182236-e1547969753106.jpg">">
-<h4> Ref: <img src="https://www.mashvisor.com/blog/wp-content/uploads/2019/01/bigstock-Paper-House-Model-On-Coins-Sta-279182236-e1547969753106.jpg"> </h4>
+<img src="https://www.mashvisor.com/blog/wp-content/uploads/2019/01/bigstock-Paper-House-Model-On-Coins-Sta-279182236-e1547969753106.jpg">
+<h4> Ref: https://www.mashvisor.com/blog/wp-content/uploads/2019/01/bigstock-Paper-House-Model-On-Coins-Sta-279182236-e1547969753106.jpg </h4>
 
 ## Table of Contents
 
